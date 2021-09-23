@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZohoSync.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.aleosapp.com</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> </Value>
+    </Setting>
+    <Setting Name="wcf" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Server_debug" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost</Value>
+    </Setting>
+    <Setting Name="port_debug" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">52487</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
