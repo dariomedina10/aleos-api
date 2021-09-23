@@ -19,7 +19,7 @@ namespace APIAleTennis
 			SQLFactory.CN = ConfigurationManager.ConnectionStrings[Ambiente].ConnectionString;; 
 #endif
 			SQLFactory.GetSyncSQL("{0}");
-
+            
 			// Web API routes
 			TrainingCycleProcess.BaseProcess();
 			TrainingActivityProcess.BaseProcess();
